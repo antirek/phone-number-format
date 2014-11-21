@@ -1,6 +1,6 @@
 {
   "name": "phone-number-format",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "phone-number-format ===================",
   "main": "lib/index.js",
   "directories": {
